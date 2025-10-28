@@ -1,1 +1,1 @@
-京大量子グループのmeeting時に行うmini colloquiumの資料です。解釈が間違っているところがある可能性があるので、読む際は注意して下さい。
+京大量子グループのmeeting時に行うmini colloquiumの資料置き場です。
